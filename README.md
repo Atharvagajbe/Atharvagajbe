@@ -79,9 +79,18 @@ Simulates phishing attacks for cybersecurity awareness and testing.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Atharvagajbe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="atharvagajbe" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/atharva-gajbe-50a2571aa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-gajbe-50a2571aa" height="30" width="40" /></a>
-  <a href="mailto:gajbeatharva2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gajbeatharva2000@gmail.com" /></a>
+  <a href="https://github.com/Atharvagajbe" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/atharva-gajbe-50a2571aa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://atharvagajbe.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Find%20Me%20Here-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:gajbeatharva2000@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
