@@ -22,23 +22,25 @@ I enjoy building secure, scalable, and innovative systems — from decentralized
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+```bash
+# Languages
 Python • Java • Solidity • Bash
 
-### **Blockchain**
+# Blockchain
 Ethereum • Hyperledger Fabric • Smart Contracts
 
-### **Security & Analysis Tools**
+# Security & Analysis Tools
 FRIDA • Objection • Kali Linux • Burp Suite • Metasploit • Wireshark • Nmap • OWASP ZAP
 
-### **Cloud & DevOps**
+# Cloud & DevOps
 AWS • GCP • Azure • Docker • Kubernetes • Terraform
 
-### **Databases**
+# Databases
 SQL • MongoDB • Redis • PostgreSQL
 
-### **Operating Systems**
+# Operating Systems
 Linux (Ubuntu, Debian, Arch, Kali) • Windows • macOS
+```
 
 ---
 
@@ -74,12 +76,26 @@ Simulates phishing attacks for cybersecurity awareness and testing.
 
 ---
 
-## 📫 Connect With Me
-
-- **GitHub**: https://github.com/Atharvagajbe  
-- **LinkedIn**: https://linkedin.com/in/atharva-gajbe-50a2571aa  
-- **Email**: gajbeatharva2000@gmail.com  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en" alt="atharvagajbe" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvagajbe&theme=dracula" alt="atharvagajbe" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en&layout=compact" alt="atharvagajbe" />
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories, fork projects, or reach out for collaboration!*  
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Atharvagajbe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="atharvagajbe" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/atharva-gajbe-50a2571aa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-gajbe-50a2571aa" height="30" width="40" /></a>
+  <a href="mailto:gajbeatharva2000@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gajbeatharva2000@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories, fork projects, or reach out for collaboration!*
