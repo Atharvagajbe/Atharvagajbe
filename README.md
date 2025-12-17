@@ -77,13 +77,13 @@ Simulates phishing attacks for cybersecurity awareness and testing.
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en" alt="atharvagajbe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en&cache_seconds=7200" alt="atharvagajbe" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvagajbe&theme=dracula" alt="atharvagajbe" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Atharvagajbe&theme=dracula&cache_seconds=7200" alt="atharvagajbe" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en&layout=compact" alt="atharvagajbe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvagajbe&show_icons=true&theme=dracula&locale=en&layout=compact&cache_seconds=7200" alt="atharvagajbe" />
 </p>
 
 ---
