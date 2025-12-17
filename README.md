@@ -88,7 +88,7 @@ Simulates phishing attacks for cybersecurity awareness and testing.
   <a href="https://atharvagajbe.github.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Find%20Me%20Here-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:gajbeatharva2000@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:gajbeatharva3000@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
