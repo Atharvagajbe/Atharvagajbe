@@ -1,74 +1,65 @@
-# 👋 Hi, I'm **Atharva Gajbe**
-### 💻 Software Engineer
-### 🛡️ Security Specialist
-### 🧠 Applied Computer Science Graduate Student
-I'm a technologist who builds full-stack systems with a security specialist's eye for how things break. 3 years of full-time, hands-on experience working onsite with a 500+ person team at Google (via Cognizant), hunting malware and vulnerabilities in production systems at scale. Now doing a Master's in Applied Computer Science in Germany, building systems that put that security background to work.
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:0f0f0f&height=300&section=header&text=Hi%2C%20World%21%20I'm%20Atharva&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Security%20Specialist&descAlignY=55&descSize=20)](https://github.com/Atharvagajbe)
+
+# aka Atharvagajbe github profile
+
+[![Profile views](https://komarev.com/ghpvc/?username=Atharvagajbe&label=Profile%20views&color=7745bf)](https://github.com/Atharvagajbe)
+[![GitHub followers](https://img.shields.io/github/followers/Atharvagajbe?style=flat&logo=github&label=Followers&color=7c60d1)](https://github.com/Atharvagajbe?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Atharvagajbe?style=flat&logo=github&label=Stars&color=fd7cff)](https://github.com/Atharvagajbe?tab=repositories)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Onsite+Security+Analyst+%40+Google+(via+Cognizant);M.Sc.+Applied+Computer+Science%2C+Germany;I+build+full-stack+systems+with+a+security+mindset)](https://github.com/Atharvagajbe)
+
+## 📬 About me — Contact
+
+- 📍 Germany (Heidelberg / Mannheim)
+- 🎓 M.Sc. Applied Computer Science @ SRH University Heidelberg
+- 🔍 Open to working student / internship roles
+- 📧 [gajbeatharva2000@gmail.com](mailto:gajbeatharva2000@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atharva-gajbe-50a2571aa)
+
+> [!NOTE]
+> 3 years onsite with a 500+ person team at Google, hunting malware and vulnerabilities at scale. Now building full-stack systems that put that background to work, not leave it behind.
+
+## 🔧 What I do now
+
+- Build full-stack systems: APIs, databases, frontends, containerized deployments [![Docker](https://img.shields.io/badge/Docker-7c60d1?style=flat&logo=docker&logoColor=white)](https://github.com/Atharvagajbe/cyber-intelliegence-platform) [![Node.js](https://img.shields.io/badge/Node.js-fd0098?style=flat&logo=node.js&logoColor=white)](https://github.com/Atharvagajbe/Software-Development-and-Architecture)
+- Reverse-engineer and instrument mobile applications at runtime [![FRIDA](https://img.shields.io/badge/FRIDA-42ff97?style=flat&logo=python&logoColor=black)](https://frida.re/)
+- Model attack surfaces as graphs and build SOC tooling [![Neo4j](https://img.shields.io/badge/Neo4j-00a8a4?style=flat&logo=neo4j&logoColor=white)](https://github.com/Atharvagajbe/cyber-intelliegence-platform)
+- Design microservices with proper observability — logging, correlation IDs, rate limiting [![Express](https://img.shields.io/badge/Express-ff7c7e?style=flat&logo=express&logoColor=white)](https://github.com/Atharvagajbe/Software-Development-and-Architecture)
+- Ship Python tooling and LLM-integrated apps [![Python](https://img.shields.io/badge/Python-29adff?style=flat&logo=python&logoColor=white)](https://github.com/Atharvagajbe/CyberGuard-AI)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvagajbe&layout=compact&bg_color=111,0824211a,0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10)](https://github.com/Atharvagajbe)
+
+## ✨ I can help with
+
+- Security analysis: reverse engineering, malware triage, vulnerability assessment [![Security](https://img.shields.io/badge/AppSec-fd0098?style=flat&logo=hackthebox&logoColor=white)](https://github.com/Atharvagajbe/Server-Side-Template-Injection)
+- Full-stack architecture: React/Redux frontends, Express/Node backends, multi-database design [![React](https://img.shields.io/badge/React-00fff9?style=flat&logo=react&logoColor=black)](https://github.com/Atharvagajbe/cyber-intelliegence-platform)
+- Containerized deployments with Docker Compose [![Docker](https://img.shields.io/badge/Docker-7c60d1?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+- Cloud deployment basics on GCP / AWS / Azure [![GCP](https://img.shields.io/badge/GCP-42ffad?style=flat&logo=googlecloud&logoColor=white)](https://github.com/Atharvagajbe/CyberGuard-AI)
+
+## 🌟 Featured projects
+
+- 🌐 **Cyber Threat Intelligence Platform** — full-stack SOC dashboard with live honeypot ingestion, graph-based attack modeling in Neo4j, and a React/Redux frontend, all containerized with Docker Compose.
+  [`Atharvagajbe/cyber-intelliegence-platform`](https://github.com/Atharvagajbe/cyber-intelliegence-platform)
+
+- 🎓 **Student Management System** — microservices architecture (auth, courses, enrollment, academic records) with shared logging, correlation-ID middleware, and rate limiting.
+  [`Atharvagajbe/Software-Development-and-Architecture`](https://github.com/Atharvagajbe/Software-Development-and-Architecture)
+
+- 🤖 **CyberGuard AI** — Gemini-powered assistant for summarizing security logs and flagging vulnerable code, deployed via Docker to Google Cloud Run.
+  [`Atharvagajbe/CyberGuard-AI`](https://github.com/Atharvagajbe/CyberGuard-AI)
+
+- 🧪 **SSTI Exploit Demo** — research demonstration of server-side template injection escalating to remote code execution, with mitigation guidance.
+  [`Atharvagajbe/Server-Side-Template-Injection`](https://github.com/Atharvagajbe/Server-Side-Template-Injection)
+
+## 📄 Research
+
+- **Blockchain-Based Solution for Secured Transmission of Examination Papers** — IEEE iSSSC, 2022
+- **Browser Extension Security: Risks & Solutions for Third-Party Extensions** — Under Publication, ICACT 2025
+
+## 📊 GitHub stats
+
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharvagajbe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=fd7cff&count_private=true)](https://github.com/Atharvagajbe)
+[![Atharva's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharvagajbe&hide_border=true&background=0D1117&border=131313&stroke=7c60d1&ring=fd7cff&fire=fd7cff&currStreakLabel=7c60d1)](https://github.com/Atharvagajbe)
+
 ---
-## 🚀 About Me
-- 💻 Build full-stack systems — APIs, databases, frontends, containerized deployments — not just scripts and PoCs.
-- 🛡️ Experience eliminating malware & analyzing obfuscated code for Android/iOS applications at Google.
-- 🔐 Skilled in **penetration testing**, **reverse engineering**, and **secure system design**.
-- 🔗 Published research in **blockchain-based secure transmission systems (IEEE 2022)**.
-- 🎤 Former Technical Team Lead at **TEDx YCCE**, managing infrastructure & digital systems for 100+ members.
-- 🎓 Currently pursuing **Master's in Applied Computer Science** in Germany.
----
-## 🛠️ Tech Stack
-```bash
-# Languages
-Python • Java • JavaScript • Solidity • C++
 
-# Backend & Frameworks
-Node.js • Express • FastAPI/Flask • REST APIs • Microservices
-
-# Frontend
-React • Redux
-
-# Databases
-MongoDB • Neo4j • Redis • PostgreSQL • SQL
-
-# Security & Analysis Tools
-FRIDA • Objection • Kali Linux • Burp Suite • Metasploit • Wireshark • Nmap
-
-# Cloud & DevOps
-AWS • GCP • Azure • Docker • Git
-```
----
-## 📂 Featured Projects
-### 🌐 **Cyber Threat Intelligence Platform**
-Full-stack SOC dashboard with a React/Redux frontend, Express backend, and three purpose-built databases — Neo4j models attack relationships as a graph, Redis tracks live indicators, MongoDB stores events from live honeypots. Fully containerized with Docker Compose.
-
-### 🎓 **Student Management System**
-Microservices architecture with independent services for auth, courses, enrollment, and academic records, plus shared middleware for structured logging, request correlation IDs, and rate limiting.
-
-### 🤖 **CyberGuard AI**
-LLM-powered security assistant using the Gemini API to summarize logs and flag vulnerable code, deployed via Docker to Google Cloud Run.
-
-### 🧪 **Server-Side Template Injection (SSTI) Exploit Demo**
-Demonstrating real-world SSTI exploitation that can escalate to remote code execution, with root-cause analysis and mitigation guidance.
-
-### 🔗 **Blockchain-Based Exam Paper Transmission**
-A secure blockchain implementation with encryption to prevent unauthorized access and tampering during exam paper distribution.
----
-## 📄 Research Publications
-- **Blockchain-Based Solution for Secured Transmission of Examination Paper**
-  *IEEE 2nd International Symposium on Sustainable Energy, Signal Processing and Cyber Security (2022)*
-- **Browser Extension Security: Risks & Solutions for Third-Party Extensions**
-  *Under Publication – ICACT 2025*
----
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://github.com/Atharvagajbe" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/atharva-gajbe-50a2571aa" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://atharvagajbe.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Find%20Me%20Here-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:gajbeatharva2000@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
----
-⭐ *Feel free to explore my repositories, fork projects, or reach out for collaboration!*
+⭐ *Feel free to explore my repositories, fork projects, or reach out — always happy to talk shop on security, systems design, or both.*
