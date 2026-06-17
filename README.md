@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:0f0f0f&height=300&section=header&text=Hi%2C%20World%21%20I'm%20Atharva&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Security%20Specialist&descAlignY=55&descSize=20)](https://github.com/Atharvagajbe)
 
-# aka Atharvagajbe github profile
+# aka Atharva
 
 [![Profile views](https://komarev.com/ghpvc/?username=Atharvagajbe&label=Profile%20views&color=7745bf)](https://github.com/Atharvagajbe)
 [![GitHub followers](https://img.shields.io/github/followers/Atharvagajbe?style=flat&logo=github&label=Followers&color=7c60d1)](https://github.com/Atharvagajbe?tab=followers)
