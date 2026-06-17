@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Atharvagajbe?style=flat&logo=github&label=Followers&color=7c60d1)](https://github.com/Atharvagajbe?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Atharvagajbe?style=flat&logo=github&label=Stars&color=fd7cff)](https://github.com/Atharvagajbe?tab=repositories)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Onsite+Security+Analyst+%40+Google+(via+Cognizant);M.Sc.+Applied+Computer+Science%2C+Germany;I+build+full-stack+systems+with+a+security+mindset)](https://github.com/Atharvagajbe)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Security+Analyst+%40+Google+(via+Cognizant);M.Sc.+Applied+Computer+Science%2C+Germany;Full-stack+systems%2C+security+mindset)](https://github.com/Atharvagajbe)
 
 ## 📬 About me — Contact
 
